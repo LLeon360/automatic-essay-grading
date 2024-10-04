@@ -1,6 +1,6 @@
-# Automated Essay Scoring 
+# Automatic Essay Scoring with Deberta-V3 📝
 
-These notebooks were made for the Learning Agency Lab Automated Essay Scoring 2 dataset. The Kaggle comp can be found here (https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2).
+These notebooks were made for the Learning Agency Lab Automated Essay Scoring 2 dataset. The Kaggle competition can be found here (https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2).
 
 # Overview
 
